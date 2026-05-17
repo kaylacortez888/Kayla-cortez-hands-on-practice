@@ -19,5 +19,4 @@ The Shiny App focuses on device category and sessions over time. It is an intera
   style="border:1px solid #ddd;">
   
 </iframe>
-
 ```

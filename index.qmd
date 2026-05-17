@@ -84,21 +84,20 @@ I currently work as an Engagement Guide at the UC Irvine Langson Orange County M
 
 # NCMA SGV Website Analytics
 
-- The main goal of looking into NCMA SGV website analytics is to further the undertsnading of how users interact with their website across different traffic and device categories. By having dashboards and using Shiny App helps identify user bahvior patterns.
+-   The main goal of looking into NCMA SGV website analytics is to further the undertsnading of how users interact with their website across different traffic and device categories. By having dashboards and using Shiny App helps identify user bahvior patterns.
 
 ## We want to address
 
-- Which traffic channels generate highest sessions?
-- Which channels produce strong engagement rates?
-- Does channels with high traffic produce strong engagement?
+-   Which traffic channels generate highest sessions?
+-   Which channels produce strong engagement rates?
+-   Does channels with high traffic produce strong engagement?
 
 ## Data being used
 
-- Sessions
-- Users
-- Engaged Sessions
-- Engagement Rate 
-- Device Category
-- Event Date 
-- Total Engagement Rate
-
+-   Sessions
+-   Users
+-   Engaged Sessions
+-   Engagement Rate
+-   Device Category
+-   Event Date
+-   Total Engagement Rate
